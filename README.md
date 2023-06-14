@@ -13,4 +13,4 @@ The ALX System Engineering DevOps Repository includes a range of projects design
 
 ## Credits
 
-The ALX System Engineering DevOps was created by Evans Elabo as part of the full stack software engineering program at ALX.
+The ALX System Engineering DevOps Repository was created by Evans Elabo as part of the full stack software engineering program at ALX.
